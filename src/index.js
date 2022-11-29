@@ -1,0 +1,1 @@
+alert("testin webpack working");
